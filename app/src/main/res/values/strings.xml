@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Let\'s cook</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Let\'s cook</string>
+    <string name="nav_header_subtitle">Ein online Kochbuch als Android App</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_recipe">Neues Rezept erstellen</string>
+    <string name="recipe_name">Rezeptname</string>
+    <string name="img_input">Bild auswählen</string>
+    <string name="description">Kurzbeschreibung</string>
+    <string name="amountpeople">Personenanzahl</string>
+    <string name="ingredients">Zutaten</string>
+    <string name="add">Hinzufügen</string>
+    <string name="instruction">Zubereitung</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="save">Speichern</string>
+    <string name="recipe_img">Rezeptbild</string>
+    <string name="ingredient">Zutat:</string>
+    <string name="amount">Menge:</string>
+    <string name="ingredientunit">Einheit:</string>
+    <string name="addingredient">Zutat hinzufügen:</string>
+    <string name="x">x</string>
+    <string name="amounts">Mengen</string>
+</resources>
